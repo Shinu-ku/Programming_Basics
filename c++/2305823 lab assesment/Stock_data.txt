@@ -1,0 +1,30 @@
+The item: Monitor
+Brand: HP
+The stock: 100
+The price: 1200
+The total price of items: 120000
+----------------------------------------------
+The item: Keyboard
+Brand: Lenovo
+The stock: 150
+The price: 800
+The total price of items: 120000
+----------------------------------------------
+The item: mouse
+Brand: Prodot
+The stock: 200
+The price: 50
+The total price of items: 10000
+----------------------------------------------
+The item: CPU
+Brand: Lenovo
+The stock: 100
+The price: 20000
+The total price of items: 2000000
+----------------------------------------------
+The item: Laptop
+Brand: Lenovo
+The stock: 5
+The price: 70000
+The total price of items: 350000
+----------------------------------------------

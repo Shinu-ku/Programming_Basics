@@ -1,0 +1,15 @@
+Name: shinu
+Number of books issued: 2
+Price of issued books: 1123, 123, 
+The final amount of books is : 1246
+----------------------------------------------
+Name: shinu
+Number of books issued: 2
+Price of issued books: 12, 23, 
+The final amount of books is : 35
+----------------------------------------------
+Name: soumya
+Number of books issued: 3
+Price of issued books: 120, 140, 145, 
+The final amount of books is : 405
+----------------------------------------------

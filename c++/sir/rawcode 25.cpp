@@ -1,0 +1,22 @@
+// Name: Soumya kushwah  Rollno: 2305823  Branch: VOC IT
+#include <iostream>
+class Rectangle{
+	public:
+		double length;
+		double breadth;	
+};
+
+using namespace std;
+int main()
+{
+
+Rectangle rect1;
+
+rect1.length=7.8;
+rect1.breadth=5.9;
+
+cout<<"Area of Rectangle 1 is "<<rect1.length*rect1.breadth;
+
+ return 0;
+}
+

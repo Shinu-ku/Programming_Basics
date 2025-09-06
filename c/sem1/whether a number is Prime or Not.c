@@ -1,0 +1,29 @@
+/* NAME: SOUMYA KUSHWAH              BRANCH:  VOC IT
+APPLICATION:105291                   ROLLNO:2305823
+*/
+#include <stdio.h>
+
+int main() {
+    int n, P = 1;
+    printf("Enter a number: ");
+    scanf("%d", &n);
+    if (n <= 1) {
+        P = 0; 
+    } else {
+        int i;
+        for (i = 2; i <= n / 2; i++) {
+            if (n % i == 0) {
+                P = 0; 
+                break;       
+            }
+        }
+    }
+    if (P) {
+        printf("%d is a prime number.\n", n);
+    } else {
+        printf("%d is not a prime number.\n", n);
+    }
+
+    return 0;
+}
+
